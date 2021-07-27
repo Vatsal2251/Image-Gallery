@@ -1,6 +1,6 @@
 # Image Gallery
 
-This is the image gallery using the pixabay api for the images and tailwindcss for design.
+This is the image gallery in reactjs using the pixabay api for the images and tailwindcss for design.
 
 ## Run the project 
 
